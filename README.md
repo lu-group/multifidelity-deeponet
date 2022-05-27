@@ -11,6 +11,9 @@ The data and code for the paper [L. Lu, R. Pestourie, S. G. Johnson, & G. Romano
 
 - [Poisson equation](src/poisson/deeponet_poisson.py)
 - [Boltzmann transport equation](src/bte)
+- Boltzmann transport equation for inverse design
+    - [Genetic algorithm](src/bte_ga)
+    - [Topology optimization](src/bte_to)
 
 ## Cite this work
 
