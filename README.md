@@ -8,6 +8,8 @@ The data and code for the paper [L. Lu, R. Pestourie, S. G. Johnson, & G. Romano
 
 ## Code
 
+- [Poisson equation](src/poisson/deeponet_poisson.py)
+
 ## Cite this work
 
 If you use this data or code for academic research, you are encouraged to cite the following paper:
