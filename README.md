@@ -5,6 +5,7 @@ The data and code for the paper [L. Lu, R. Pestourie, S. G. Johnson, & G. Romano
 ## Data
 
 - [Poisson equation](data/poisson)
+- [Boltzmann transport equation](data/bte)
 
 ## Code
 
