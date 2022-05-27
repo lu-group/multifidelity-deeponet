@@ -10,6 +10,7 @@ The data and code for the paper [L. Lu, R. Pestourie, S. G. Johnson, & G. Romano
 ## Code
 
 - [Poisson equation](src/poisson/deeponet_poisson.py)
+- [Boltzmann transport equation](src/bte)
 
 ## Cite this work
 
