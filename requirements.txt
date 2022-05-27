@@ -1,0 +1,6 @@
+deepxde
+matplotlib
+numpy
+pathos
+scipy
+sklearn
